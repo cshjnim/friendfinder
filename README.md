@@ -1,60 +1,21 @@
 # Friend Finer - Node and Express Servers
 
+# Contributor 
+Created By: Hyejin Kim, Creator
 
-Jan 12, 2020
+Date: Jan 12, 2020
 
+- - -
 
-# Friend Finder - Node and Express Servers
 
 ### Overview
 
-In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+"In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
+You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out."
 
+- - -
 
-### Before You Begin
-
-* Check out [this demo version of the site](https://friend-finder-fsf.herokuapp.com/). Use this as a model for how we expect your assignment look and operate.
-
-* Create a folder called `FriendFinder`. Inside the folder, organize your directories so it matches the following:
-
-  ```
-  FriendFinder
-    - .gitignore
-    - app
-      - data
-        - friends.js
-      - public
-        - home.html
-        - survey.html
-      - routing
-        - apiRoutes.js
-        - htmlRoutes.js
-    - node_modules
-    - package.json
-    - server.js
-  ```
-
-### Commits
-
-Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-### Submission on BCS
-
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
 
 ### Instructions
 
@@ -107,46 +68,46 @@ Having an active and healthy commit history on GitHub is important for your futu
 7. Once you've found the current user's most compatible friend, display the result as a modal pop-up.
    * The modal should display both the name and picture of the closest match.
 
-### Reminder: Submission on BCS
+- - -
 
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
+
+### SCREENSHOTS
+
+* Localhost Screenshot: 
+
+![Screenshots](/screenshots/20200113_211617_1.png)
+
 
 - - -
 
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as well as adding this homework to your portfolio are required as well and more information can be found below. **This assignment must be deployed.**
-
-- - -
-
-### Hosting on Heroku
-
-Now that we have a backend to our applications, we use Heroku for hosting. Please note that while **Heroku is free**, it will request credit card information if you have more than 5 applications at a time or are adding a database.
-
-Please see [Heroku’s Account Verification Information](https://devcenter.heroku.com/articles/account-verification) for more details.
-
-See the [Supplemental Heroku Deployment Guide](../../03-Supplemental/HerokuGuide.md) for in-detail deployment instructions.
+### Links & Portfolio's Links
+*  [Github page](https://github.com/cshjnim/friendfinder.git)
+*  [Hyejin's Portfolio](https://cshjnim.github.io/)
 
 - - -
 
-### Create a README.md
+### Summary of Technologies Used on this project
 
-Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
+* Javascript
+* Git
+* GitHub
+* Heroku
+* Node
+* JSON
+* NPM Packages
 
-* [About READMEs](https://help.github.com/articles/about-readmes/)
-
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-- - -
-
-### Add To Your Portfolio
-
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
 
 - - -
 
-### One More Thing
+### CHECKLISTS
 
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
+1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why) &check;
+2. Give a high-level overview of how the app is organized &check;
+3. Give start-to-finish instructions on how to run the app &check;
+4. Include screenshots, gifs or videos of the app functioning &check;
+5. Contain a link to a deployed version of the app &check;
+6. Clearly list the technologies used in the app &check;
+7. State your role in the app development &check;
 
-**Good Luck!**
+
+# Friend Finder - Node and Express Servers
