@@ -1,4 +1,4 @@
-# Friend Finer - Node and Express Servers
+# Friend Finder - Node and Express Servers
 
 # Contributor 
 Created By: Hyejin Kim, Creator
